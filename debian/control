@@ -24,7 +24,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/klines.git
 Package: klines
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Recommends: khelpcenter
+Recommends: khelpcenter4
 Description: color lines game
  KLines is a single-player game where the player removes colored balls from the
  board by arranging them into lines of five or more.  However, every time the
