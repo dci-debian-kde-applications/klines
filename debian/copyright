@@ -5,41 +5,19 @@ Upstream-Contact: Albert Astals Cid <aacid@kde.org>
 Source: http://www.kde.org/download/
 
 Files: *
-Copyright: 2000-2008, Roman Razilov <Roman.Razilov@gmx.de>
-           2000-2008, Roman Merzlyakov <roman@sbrf.barrt.ru>
+Copyright: 2006-2007, Dmitry Suzdalev
+           2006-2008, Dmitry Suzdalev <dimsuz@gmail.com>
+           1989-1991, Free Software Foundation, Inc
+           2000, Roman Merzlyakov
+           2000, Roman Merzlyakov <roman@sbrf.barrt.ru>
+           2000, Roman Razilov
+           2007, Simon Hürlimann <simon.huerlimann@huerlisi.ch>
 License: GPL-2+
 
 Files: doc/*
 Copyright: 2000-2008, Roman Razilov <Roman.Razilov@gmx.de>
+           2000, Roman Merzlyakov
 License: GFDL-1.2+
-
-Files: animator.cpp
-       animator.h
-       ballitem.cpp
-       ballitem.h
-       commondefs.h
-       previewitem.cpp
-       previewitem.h
-       renderer.cpp
-       renderer.h
-       scene.cpp
-       scene.h
-Copyright: 2006-2008, Dmitry Suzdalev <dimsuz@gmail.com>
-License: GPL-2+
-
-Files: klines.cpp
-Copyright: 2000, Roman Merzlyakov <roman@sbrf.barrt.ru>
-           2000, Roman Razilov <Roman.Razilov@gmx.de>
-           2007, Simon Hürlimann <simon.huerlimann@huerlisi.ch>
-           2007, Dimitry Suzdalev <dimsuz@gmail.com>
-License: GPL-2+
-
-Files: mwidget.cpp
-       mwidget.h
-Copyright: 2000, Roman Merzlyakov <roman@sbrf.barrt.ru>
-           2000, by Roman Razilov <Roman.Razilov@gmx.de>
-           2006-2007, by Dmitry Suzdalev <dimsuz@gmail.com>
-License: GPL-2+
 
 Files: debian/*
 Copyright: 2007-2013, Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
