@@ -1,8 +1,8 @@
-klines (4:15.12.1-1ubuntu1) UNRELEASED; urgency=medium
+klines (4:15.12.1-1ubuntu1) xenial; urgency=medium
 
   * Debian merge: No remaining changes. 
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 08 Feb 2016 16:33:05 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 10:50:34 +0100
 
 klines (4:15.12.1-1) experimental; urgency=medium
 
