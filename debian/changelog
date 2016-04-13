@@ -1,3 +1,11 @@
+klines (4:15.12.3-1~1.gbpc7038f) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @c7038f536760a6b7b664f92851115f8a145a2cbb **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:20:55 +0200
+
 klines (4:15.12.1-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
