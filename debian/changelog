@@ -1,11 +1,20 @@
-klines (4:16.04.0-1~1.gbp59df91) UNRELEASED; urgency=medium
+klines (4:16.04.0-1~2.gbpccab10) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @ccab10a8302ed33917493093ef31caea55af0580 **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @59df91a4a22dc859cc948bdfae38c07d0a5412f4 **
 
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 01:20:16 +0200
+  [ Maximiliano Curia ]
+  * Remove menu file and friends
+  * New upstream release (15.12.2).
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 13:20:19 +0200
 
 klines (4:15.12.1-1) experimental; urgency=medium
 
