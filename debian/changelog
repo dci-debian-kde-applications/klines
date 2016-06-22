@@ -1,10 +1,8 @@
-klines (4:16.04.2-1~1.gbpee0743) UNRELEASED; urgency=medium
+klines (4:16.04.2-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @ee0743c3be79db6faf67296fe5ab16d1e9b1d75f **
+  * New upstream release.
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 01:20:15 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 22 Jun 2016 21:52:02 +0200
 
 klines (4:16.04.0-1) unstable; urgency=medium
 
