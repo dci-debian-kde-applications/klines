@@ -43,6 +43,8 @@ Package: klines
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Recommends: khelpcenter
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: color lines game
  KLines is a single-player game where the player removes colored balls from the
  board by arranging them into lines of five or more.  However, every time the
