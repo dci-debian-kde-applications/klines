@@ -19,6 +19,7 @@ klines (4:17.08.3-1~1) UNRELEASED; urgency=medium
     libkf5iconthemes-dev, libkf5itemviews-dev, libkf5kdelibs4support-dev,
     libkf5kio-dev, libkf5newstuff-dev, libkf5service-dev, libqt5svg5-dev,
     qtdeclarative5-dev.
+  * Remove trailing whitespaces in changelog.
 
  -- Pino Toscano <pino@debian.org>  Sat, 18 Nov 2017 11:22:24 +0100
 
@@ -168,7 +169,7 @@ klines (4:15.07.90-0ubuntu1) wily; urgency=medium
 klines (4:15.04.2-0ubuntu1) wily; urgency=medium
 
   [ Scarlett Clark ]
-  * manual merge 
+  * manual merge
   * New upstream release
   * New upstream release
 
