@@ -1,4 +1,6 @@
-klines (4:17.08.3-1~1) UNRELEASED; urgency=medium
+klines (4:17.08.3-1) unstable; urgency=medium
+
+  * Team upload.
 
   [ Maximiliano Curia ]
   * New upstream release (17.08.1)
@@ -21,7 +23,7 @@ klines (4:17.08.3-1~1) UNRELEASED; urgency=medium
     qtdeclarative5-dev.
   * Remove trailing whitespaces in changelog.
 
- -- Pino Toscano <pino@debian.org>  Sat, 18 Nov 2017 11:22:24 +0100
+ -- Pino Toscano <pino@debian.org>  Sat, 18 Nov 2017 16:03:38 +0100
 
 klines (4:17.08.1-0neon) xenial; urgency=medium
 
